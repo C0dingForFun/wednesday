@@ -29,8 +29,10 @@ section{
 
 
 th{
-    font-size:larger;
+    font-size:x-large;
+    color:white;
 }
 td{
-    font-size: larger;
+    font-size: x-large;
+    color:white;
 }
