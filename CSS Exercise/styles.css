@@ -1,0 +1,36 @@
+body{
+    background-image: url('./Landscape.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1920px 1170px;
+}
+
+
+h1{
+    color:orange;
+}
+
+p{
+    color:maroon;
+    font-family:'Times New Roman';
+}
+
+h4{
+    color:chocolate;
+}
+
+table{
+    margin:auto;
+}
+
+section{
+    padding:1em;
+}
+
+
+th{
+    font-size:larger;
+}
+td{
+    font-size: larger;
+}
